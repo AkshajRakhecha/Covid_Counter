@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Akshaj\\Desktop\\apps\\covid_counter\\build\\app\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-fa\\values-fa.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Akshaj\\.gradle\\caches\\transforms-2\\files-2.1\\6ec6d573b89ef30fdcfa8e228adc4fe8\\core-1.1.0\\res\\values-fa\\values-fa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
